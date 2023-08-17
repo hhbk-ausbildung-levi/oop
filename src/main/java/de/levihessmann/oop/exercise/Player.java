@@ -1,4 +1,4 @@
-package de.levihessmann.oop.exercise.two;
+package de.levihessmann.oop.exercise;
 
 import java.util.UUID;
 
